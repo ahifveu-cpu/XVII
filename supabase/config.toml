@@ -1,0 +1,5 @@
+[functions.manage-users]
+verify_jwt = true
+
+[functions.qos-billing]
+verify_jwt = false
